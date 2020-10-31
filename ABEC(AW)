@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am abecaw on github.
+  * I am abecaw (https://keybase.io/abecaw) on keybase.
+  * I have a public key ASB6iqAcsYB6wdyw6jU0FPgvFKSGEq0duOzi92e4xHLXlwo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01207a8aa01cb1807ac1dcb0ea353414f82f14a48612ad1db8ece2f767b8c472d7970a",
+      "host": "keybase.io",
+      "kid": "01207a8aa01cb1807ac1dcb0ea353414f82f14a48612ad1db8ece2f767b8c472d7970a",
+      "uid": "d88af03c23719f844c7bc0958c25cf19",
+      "username": "abecaw"
+    },
+    "merkle_root": {
+      "ctime": 1604175546,
+      "hash": "4bba4de939e374b7823281af6cd49302330597144913b34265aa835158d5b68abd8ade68b3ce8fe8445d1afb6ff90d4f4f298d2129ddf153a5f94ada0a2e81e9",
+      "hash_meta": "920938588bbf32df313f2b44d73a0401a277060217b9980ec9fed1623eb8f039",
+      "seqno": 17982499
+    },
+    "service": {
+      "entropy": "9Hk1ZuNM2S3MrCl0SeE7VjAq",
+      "name": "github",
+      "username": "abecaw"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1604175701,
+  "expire_in": 504576000,
+  "prev": "976cf76a9568b7c9918df4445fd42336a4e3d099627ac8b6622afa0df293f70b",
+  "seqno": 13,
+  "tag": "signature"
+}
+```
+
+with the key [ASB6iqAcsYB6wdyw6jU0FPgvFKSGEq0duOzi92e4xHLXlwo](https://keybase.io/abecaw), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgeoqgHLGAesHcsOo1NBT4LxSkhhKtHbjs4vdnuMRy15cKp3BheWxvYWTESpcCDcQgl2z3apVot8mRjfREX9QjNqTj0Jliesi2Yir6DfKT9wvEILXZDRgIM20XaGEbl29cGaikmh87c0Qkf04CwZIi6NyQAgHCo3NpZ8RAY6AsxRqdVWyo9kZYxQqugfMaZOf6xcIGYL8vyxvjIPIndGUAte1b1GkWXOG5xb3s/cKSXDH17sbvucuu4V1JAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIEOBq8xfSoPhyWepffJ7+TXnuYdSxSC6B0fjHqLOkW2go3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/abecaw
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id abecaw
+```
